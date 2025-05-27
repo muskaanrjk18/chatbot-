@@ -1,2 +1,1 @@
-# chatbot-
-psnl chatbot
+# sorry note
